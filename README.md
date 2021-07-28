@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 ⚡ Pined<br>
 
 [![cassandra-orm4nest](https://github-readme-stats.vercel.app/api/pin/?username=tensoar&theme=vue-dark&repo=cassandra-orm4nest)](https://github.com/tensoar/cassandra-orm4nest)
-[![MqttBootIntegration](https://github-readme-stats.vercel.app/api/pin/?username=tensoar&theme=vue-dark&MqttBootIntegration)](https://github.com/tensoar/MqttBootIntegration)
+[![MqttBootIntegration](https://github-readme-stats.vercel.app/api/pin/?username=tensoar&theme=vue-dark&repo=MqttBootIntegration)](https://github.com/tensoar/MqttBootIntegration)
 [![ssh-pick](https://github-readme-stats.vercel.app/api/pin/?username=tensoar&theme=vue-dark&repo=ssh-pick)](https://github.com/tensoar/ssh-pick)
