@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 I’m currently working with Node and Java <br>
-📫 Welcome to my [Blog](https://wteng.top) <br><br>
+📫 Welcome to my [Blog](https://labrador.ink) <br><br>
 
 [![Tensoar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tensoar&show_icons=true&count_private=true&hide=contribs&include_all_commits=true&theme=vue-dark&custom_title=Tensoar's%20GitHub%20stats)](https://github.com/tensoar)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tensoar&layout=compact&theme=vue-dark)](https://github.com/tensoar)
