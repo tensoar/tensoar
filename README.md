@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tensoar&layout=compact&theme=vue-dark&card_width=445&langs_count=6)](https://github.com/tensoar)
 
-## 🔭 Lastest Blog posts
+### 🔭 Lastest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [FreeSSL + ACME自动化续期SSL证书&lpar;支持泛域名&rpar;](https://labrador.ink/index.php/posts/196)
