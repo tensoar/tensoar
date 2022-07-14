@@ -24,3 +24,8 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tensoar&layout=compact&theme=vue-dark&card_width=445&langs_count=6)](https://github.com/tensoar)
+
+## 🔭 Lastest Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
