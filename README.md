@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 🌱 I’m currently working with Node and Java <br>
 📫 Welcome to my [Blog](https://labrador.ink) <br>
-👉 I'm available for new work <br><br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tensoar&theme=buefy)](https://github.com/tensoar)
 
