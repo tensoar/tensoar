@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 ### Lastest Blog Posts 🔭
 
 <!-- BLOG-POST-LIST:START -->
+- [SpringSecurity以Bean方式配置JWT](https://labrador.ink/index.php/posts/202)
 - [私有云搭建远程桌面控制服务](https://labrador.ink/index.php/posts/200)
 - [FreeSSL + ACME自动化续期SSL证书&lpar;支持泛域名&rpar;](https://labrador.ink/index.php/posts/196)
 - [SpringBoot自定义参数解析器实现请求参数解析映射和校验](https://labrador.ink/index.php/posts/194)
 - [NextCloud集成OnlyOffice](https://labrador.ink/index.php/posts/191)
-- [RabbitMq实现延迟队列](https://labrador.ink/index.php/posts/190)
 <!-- BLOG-POST-LIST:END -->
