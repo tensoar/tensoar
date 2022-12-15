@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 ### Lastest Blog Posts 🔭
 
 <!-- BLOG-POST-LIST:START -->
+- [ReactNative实现Android串口通信](https://labrador.ink/index.php/posts/214)
 - [SpringBoot线程池实现取消执行](https://labrador.ink/index.php/posts/212)
 - [利用prometheus与grafana进行nacos监控](https://labrador.ink/index.php/posts/204)
 - [SpringSecurity以Bean方式配置JWT](https://labrador.ink/index.php/posts/202)
 - [私有云搭建远程桌面控制服务](https://labrador.ink/index.php/posts/200)
-- [FreeSSL + ACME自动化续期SSL证书&lpar;支持泛域名&rpar;](https://labrador.ink/index.php/posts/196)
 <!-- BLOG-POST-LIST:END -->
