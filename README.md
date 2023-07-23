@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 ### Lastest Blog Posts 🔭
 
 <!-- BLOG-POST-LIST:START -->
+- [Electron中使用axios出现Network Error](https://labrador.ink/index.php/posts/220)
 - [SpringBoot利用ShardingSphere分库分表](https://labrador.ink/index.php/posts/216)
 - [ReactNative实现Android串口通信](https://labrador.ink/index.php/posts/214)
 - [SpringBoot线程池实现取消执行](https://labrador.ink/index.php/posts/212)
 - [利用prometheus与grafana进行nacos监控](https://labrador.ink/index.php/posts/204)
-- [SpringSecurity以Bean方式配置JWT](https://labrador.ink/index.php/posts/202)
 <!-- BLOG-POST-LIST:END -->
