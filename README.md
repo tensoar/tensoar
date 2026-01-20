@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 [![Tensoar's GitHub stats](./profile/stats.svg)](https://github.com/tensoar)
 
-![Top Languages](./profile/top-langs.svg)
-
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+![Top Languages](./profile/top-langs.svg)\
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tensoar&layout=compact&theme=buefy&card_width=496&langs_count=6)](https://github.com/tensoar)
