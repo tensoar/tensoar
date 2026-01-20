@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 🌱 I’m currently working with Node and Java <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tensoar&theme=buefy&locale=zh_Hans&date_format=%5BY.%5Dn.j&card_width=496&card_height=196)](https://github.com/tensoar)
 
-[![Tensoar's GitHub stats](./profile/stats.svg)](https://github.com/tensoar)(https://github.com/tensoar)
+[![Tensoar's GitHub stats](./profile/stats.svg)](https://github.com/tensoar)
 
-![Top Languages](./profile/top-langs.svg)(https://github.com/tensoar)
+[![Top Languages](./profile/top-langs.svg)](https://github.com/tensoar)
 
