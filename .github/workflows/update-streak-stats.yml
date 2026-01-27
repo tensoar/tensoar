@@ -1,0 +1,51 @@
+name: Update Streak Stats
+
+on:
+  schedule:
+    # 每天 UTC 时间 17:00 运行（对应北京时间凌晨1点，如果你的时区不同需要调整）
+    - cron: '0 17 * * *'
+  workflow_dispatch:  # 允许手动触发
+  push:
+    branches: [ main, master ]
+    paths:
+      - '.github/workflows/update-streak-stats.yml'
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        persist-credentials: false
+
+    - name: Create profile directory if not exists
+      run: mkdir -p ./profile
+
+    - name: Download streak stats SVG
+      run: |
+        # 使用 curl 下载 SVG，设置超时和重试
+        curl --max-time 30 --retry 3 --retry-delay 5 \
+          "https://github-readme-streak-stats.herokuapp.com?user=tensoar&theme=buefy&date_format=%5BY.%5Dn.j&card_width=496&card_height=196" \
+          -o ./profile/streak-stats.svg
+        
+        # 检查文件是否有效
+        if ! grep -q "svg" ./profile/streak-stats.svg; then
+          echo "下载的文件不是有效的SVG，可能是API错误"
+          exit 1
+        fi
+
+    - name: Commit and push if changed
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        
+        # 检查文件是否有变化
+        if git diff --quiet ./profile/streak-stats.svg; then
+          echo "文件无变化，无需提交"
+        else
+          git add ./profile/streak-stats.svg
+          git commit -m "chore: update streak stats [$(date +'%Y-%m-%d')]"
+          git push origin HEAD:${{ github.ref }}
+        fi
