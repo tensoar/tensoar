@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently working with Node and Java <br>
+🌱 I’m currently working with Node and Java <br> <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tensoar&theme=buefy&date_format=%5BY.%5Dn.j&card_width=496&card_height=196)](https://github.com/tensoar)
 
 [![Tensoar's GitHub stats](./profile/stats.svg)](https://github.com/tensoar)
